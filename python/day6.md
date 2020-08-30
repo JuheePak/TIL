@@ -3,6 +3,7 @@
 ## 응용문제
 
 - 지금까지 배운 if, while, for, 기본연산(*, +, -, /), input 등 종합하여 연습하는 문제
+- 제공된 OperTestApp1.py를 사용한다.
 - Cheer up :)
 
 
