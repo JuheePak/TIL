@@ -8,3 +8,4 @@
 - day 4: for - 반복문
 - day 5: function - 다양하게 함수 사용하기(Triangle, Gugu-dan)
 - day 6: function  - 응용문제 (OperTestApp1.py 사용)
+- day 7: function - 응용문제 - 함수, 가변아규먼트
