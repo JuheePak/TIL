@@ -10,3 +10,4 @@
 - day 6: function  - 응용문제 (OperTestApp1.py 사용)
 - day 7: function - 응용문제 - 함수, 가변아규먼트
 - day 8: List 이해하기
+- day 9: Dictionary, Set 연습
