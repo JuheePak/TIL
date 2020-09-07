@@ -14,3 +14,8 @@
 - day 10:  comprehension
 - day 11: Packing & Unpacking
 - day 12: read file & Try-except-else-finally
+
+---
+
+### R Script
+
