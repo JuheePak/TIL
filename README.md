@@ -13,3 +13,4 @@
 - day 9: Dictionary, Set 연습
 - day 10:  comprehension
 - day 11: Packing & Unpacking
+- day 12: read file & Try-except-else-finally
