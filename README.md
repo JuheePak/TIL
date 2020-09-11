@@ -15,6 +15,7 @@
 - day 11: Packing & Unpacking
 - day 12: read file & Try-except-else-finally (w/ sample.txt, yesterday.txt)
 - day 13: class & instance
+- day 14: Inheritance
 
 ---
 
