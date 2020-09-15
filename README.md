@@ -21,8 +21,8 @@
 
 ### R Script
 
-- day1:  변수, 데이터 타입
-- day2: Matrix
-- day3: Dataframe
-- day4: List
+- day 1: 변수, 데이터 타입
+- day 2: Matrix
+- day 3: Dataframe
+- day 4: List
 - day 5: 제어문
