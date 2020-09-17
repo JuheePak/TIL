@@ -27,3 +27,4 @@
 - day 4: List
 - day 5: 제어문
 - day 6: function
+- day 7: function
