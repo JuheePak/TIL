@@ -29,3 +29,4 @@
 - day 6: function
 - day 7: function
 - day 8: 정적크롤링
+- day 9: 정적크롤링
