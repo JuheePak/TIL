@@ -35,3 +35,4 @@
 - day 12:  동적크롤링
 - day 13: 동적크롤링
 - day 14: MariaDB
+- day 15:  data processing
