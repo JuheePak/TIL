@@ -1,4 +1,4 @@
-## day 16: data_processing
+## day 16: data processing
 
 ### `1. R언어로 내가 태어난 요일을 다음 형식으로 출력해보자.`
 
