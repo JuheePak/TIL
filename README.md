@@ -32,8 +32,9 @@
 - day 9: 정적크롤링
 - day 10: 정적크롤링
 - day 11: 동적크롤링
-- day 12:  동적크롤링
+- day 12: 동적크롤링
 - day 13: 동적크롤링
 - day 14: MariaDB
-- day 15:  data processing
-- day 16:  data processing
+- day 15: data processing
+- day 16: data processing
+- day 17: chart
