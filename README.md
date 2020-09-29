@@ -38,3 +38,4 @@
 - day 15: data processing
 - day 16: data processing
 - day 17: chart
+- day 18: dplyr package
