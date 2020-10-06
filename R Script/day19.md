@@ -1,4 +1,4 @@
-## day 19:  dplyr package
+## day 19: dplyr package
 
 ### `1. ggplot2 패키지에서 제공되는 mpg 라는 데이터 셋의 구조를 확인한다. 이 mpg 를 데이터프레임으로 변환하여 mpg 에 저장한다.(as.data.frame())`
 
