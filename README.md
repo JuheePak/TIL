@@ -40,3 +40,4 @@
 - day 17: chart
 - day 18: dplyr package
 - day 19: dplyr package
+- day 20: dplyr package
