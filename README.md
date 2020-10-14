@@ -42,3 +42,10 @@
 - day 19: dplyr package
 - day 20: dplyr package
 - day 21: Text mining
+
+---
+
+### Python for Data Analysis
+
+* day1:
+
