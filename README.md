@@ -47,7 +47,8 @@
 
 ### Python for Data Analysis
 
-* day1:
+* day1: basic packages
+* day2: scraping
 
 
 
