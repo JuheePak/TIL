@@ -49,6 +49,7 @@
 
 * day1: basic packages
 * day2: scraping
+* day3: scraping
 
 
 
