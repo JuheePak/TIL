@@ -1,4 +1,4 @@
-## day1: basic packages
+## day1: Basic packages
 
 ### `파이썬 기반의 정적 수집 실습(1)`
 

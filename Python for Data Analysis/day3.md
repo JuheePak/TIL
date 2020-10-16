@@ -1,4 +1,4 @@
-### day3: scraping
+### day3: Scraping
 
 ### `아래의 웹 페이지는 많이 본 순서대로 정렬된 다음 뉴스 페이지이다. 각 뉴스의 타이틀과 신문사명(각 50개)를 스크래핑하여 newstitle, newscomname으로 구성된 news.csv 파일을 생성하라.`
 
