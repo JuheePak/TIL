@@ -51,6 +51,7 @@
 * day2: Scraping
 * day3: Scraping
 * day4: Scraping
+* day 5: Selenium
 
 
 
