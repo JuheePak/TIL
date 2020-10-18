@@ -53,14 +53,7 @@
 * day4: Scraping
 * day 5: Selenium
 * day 6: Selenium
-
-
-
-
-
-
-
-
+* day 7: Selenium
 
 ---
 
