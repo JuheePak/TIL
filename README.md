@@ -54,6 +54,7 @@
 * day 5: Selenium
 * day 6: Selenium
 * day 7: Selenium
+* day 8: Social Media Open API
 
 ---
 
