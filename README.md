@@ -56,6 +56,7 @@
 * day 7: Selenium
 * day 8: Social Media Open API
 * day 9: Pandas
+* day 10: Read, save dataframe
 
 ---
 
