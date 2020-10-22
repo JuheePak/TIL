@@ -58,6 +58,7 @@
 * day 9: Pandas
 * day 10: Read, save dataframe
 * day 11: Matplotlib
+* day 12: Seaborn
 
 ---
 
