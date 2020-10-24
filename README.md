@@ -60,6 +60,7 @@
 * day 11: Matplotlib
 * day 12: Seaborn
 * day 13: Folium
+* day 14: Missing Data
 
 ---
 
