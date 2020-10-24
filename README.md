@@ -59,6 +59,7 @@
 * day 10: Read, save dataframe
 * day 11: Matplotlib
 * day 12: Seaborn
+* day 13: Folium
 
 ---
 
