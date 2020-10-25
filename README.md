@@ -58,6 +58,10 @@
 * day 9: Pandas
 * day 10: Read, save dataframe
 * day 11: Matplotlib
+
+  - **[matplotlib documents]**
+  - https://python-graph-gallery.com/cheat-sheets/
+  - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
 * day 12: Seaborn
 * day 13: Folium
 * day 14: Missing Data
