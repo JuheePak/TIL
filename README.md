@@ -47,6 +47,8 @@
 
 ### Python for Data Analysis
 
+> 패키지 설치 시 Error 해결 방법
+
 * day1: Basic packages
 * day2: Scraping
 * day3: Scraping
