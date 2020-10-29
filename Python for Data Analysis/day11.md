@@ -37,8 +37,8 @@ plt.grid(True)
 #저장
 plt.savefig("output/hw1.png")
 ```
+![hw1](https://user-images.githubusercontent.com/69948723/97535840-99a4c780-19ff-11eb-9c1b-5e00f4247641.png)
 
-결과:![hw1](C:\Users\juhee\TIL\Python for Data Analysis\hw1.png)
 
 ### `2. matplotlib을 이용하여 아래 데이터를 읽어 세로막대그래프로 시각화하라.`
 
@@ -83,5 +83,4 @@ plt.savefig("output/hw2.png")
 
 결과:
 
-![hw2](C:\Users\juhee\TIL\Python for Data Analysis\hw2.png)
-
+![hw2](https://user-images.githubusercontent.com/69948723/97535855-9f9aa880-19ff-11eb-9092-a23acd541631.png)

@@ -66,4 +66,4 @@ plt.imshow(wordcloud)
 plt.axis('off')
 plt.show()
 ```
-
+![python_hw](https://user-images.githubusercontent.com/69948723/97535551-269b5100-19ff-11eb-9ee6-501c25d76af0.png)
