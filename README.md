@@ -66,6 +66,7 @@
 * day 13: Folium
 * day 14: Missing Data
 * day 15: Groupby
+* day 16: Wordcloud
 
 ---
 
