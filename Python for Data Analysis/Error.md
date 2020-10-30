@@ -2,6 +2,8 @@
 
 #### 한국어 전처리 패키지: PyKoSpacing & Py-Hanspell를 설치하고 이용하는 과정에서 위와 같은 에러가 발생함.
 
+---
+
 #### 해결방안
 
 ##### 1. anaconda를 powershell prompt 창에서 열고 설치한다. (꼭 가상환경에서 설치한다.)
