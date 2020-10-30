@@ -47,7 +47,7 @@
 
 ### Python for Data Analysis
 
-> 패키지 설치 시 Error 해결 방법
+[패키지 설치 시 Error 해결 방법](https://github.com/JuheePak/TIL/blob/master/Python%20for%20Data%20Analysis/Error.md "error.md로 이동")
 
 * day1: Basic packages
 * day2: Scraping
