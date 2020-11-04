@@ -50,24 +50,40 @@
 [패키지 설치 시 Error 해결 방법](https://github.com/JuheePak/TIL/blob/master/Python%20for%20Data%20Analysis/Error.md "error.md로 이동")
 
 * day1: Basic packages
+
 * day2: Scraping
+
 * day3: Scraping
+
 * day4: Scraping
+
 * day 5: Selenium
+
 * day 6: Selenium
+
 * day 7: Selenium
+
 * day 8: Social Media Open API
+
 * day 9: Pandas
+
 * day 10: Read, save dataframe
+
 * day 11: Matplotlib
 
-  - **[matplotlib documents]**
+  **[matplotlib documents]**
+
   - https://python-graph-gallery.com/cheat-sheets/
   - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
+
 * day 12: Seaborn
+
 * day 13: Folium
+
 * day 14: Missing Data
+
 * day 15: Groupby
+
 * day 16: Wordcloud
 
 ---
