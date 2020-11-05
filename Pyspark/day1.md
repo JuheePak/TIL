@@ -1,5 +1,18 @@
 ### day 1: RDD
 
+#### `RDD(Resilient Distributed Dataset)`
+
+##### read-only 데이터셋으로서 다양한 머신에 데이터셋의 멀티셋(중복을 허용)을 분산해두고 특정한 머신에 문제가 생기더라도 문제없이 읽을수로 있도록 지원한다
+
+- MapReduce 작업
+- 분산하여 병렬적 처리
+- 빠른 연산
+- 불변(Immutable)
+- Transformation 과 Action 으로 함수 종류가 나눠지며, Action 함수가 실행됐을 때 실제 연산
+- Lineage(계보, '기록'정도로 이해하면 편할듯) 를 통해 Fault Tolerant(고장 내성) 보장
+
+
+
 ### `1. SparkSession 객체 생성`
 
 ``` python
