@@ -1,21 +1,21 @@
-# Today I Learned(TIL) Wiki
-> 리스트는 계속 업데이트 합니다!
+# 🐱‍🐉 Today I Learned(TIL) Wiki
+> 리스트는 계속 업데이트 합니다 :)
 
 ### Python
-- day 1: Introduction of Python - 기본적인 연산
-- day 2: if - 조건문
-- day 3: while - 반복문
-- day 4: for - 반복문
-- day 5: function - 다양하게 함수 사용하기(Triangle, Gugu-dan)
-- day 6: function  - 응용문제 (w/ OperTestApp1.py)
-- day 7: function - 응용문제 - 함수, 가변아규먼트
-- day 8: List 이해하기
-- day 9: Dictionary, Set 연습
-- day 10:  comprehension
-- day 11: Packing & Unpacking
-- day 12: read file & Try-except-else-finally (w/ sample.txt, yesterday.txt)
-- day 13: class & instance
-- day 14: Inheritance
+- 01_Introduction of Python
+- 02_if
+- 03_while
+- 04_for
+- 05_function: 다양하게 함수 사용하기(Triangle, Gugu-dan)
+- 06_function: 응용문제 (w/ OperTestApp1.py)
+- 07_function: 응용문제 - 함수, 가변아규먼트
+- 08_List
+- 09_Dictionary
+- 10_Comprehension
+- 11_Packing_Unpacking
+- 12_read file: Try-except-else-finally
+- 13_class_instance
+- 14_Inheritance
 
 ---
 
