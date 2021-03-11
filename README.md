@@ -93,14 +93,14 @@
 * 00_markdown_basis
 * 01_CLI
 * 02_git
-* 03_Github Flow
+* 03_Github_flow
 
 ---
 
 ### Pyspark
 
-- day 1: RDD
-- day2: Spark_DataFrame
+- 01_RDD
+- 02_spark_dataFrame
 
 
 
