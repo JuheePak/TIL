@@ -53,3 +53,7 @@ print("name 이라는 클래스 속성을 갖는 <tr> 태그의 컨텐트: ", bs
 print("target이라는 아이디 속성을 갖는 <td> 태그의 컨텐트: ", bs.find("td", id='target').text, sep='')
 ```
 
+#### 결과물
+
+![image-20201015131348526](https://user-images.githubusercontent.com/69948723/112234155-3b62d480-8c7f-11eb-92de-9558ac5e49c2.png)
+
